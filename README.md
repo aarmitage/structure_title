@@ -1,7 +1,7 @@
 structure_title
 ===============
 
-Uses structure page URI in Expression Engine to extract last segment to obtain entry title.
+Uses structure page URI in Expression Engine to extract the last segment from the URI (url_title) to obtain the entry title.
 
 **Usage**
 
